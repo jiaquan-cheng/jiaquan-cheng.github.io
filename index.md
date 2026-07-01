@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![Jia's Profile Picture](profile.jpeg)
+
 [Email](mailto:j.q.cheng@icloud.com) | [LinkedIn](https://www.linkedin.com/in/jiaquan-cheng-a6654525a) | [GitHub](https://github.com/jiaquan-cheng) | [Goodreads](https://www.goodreads.com/user/show/148720300-cheng-jiaquan)
 
 ### About Me
